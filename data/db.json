@@ -1,0 +1,24 @@
+{
+  "Billionaire": [
+    {
+      "Name": "Rinku",
+      "Age": 25,
+      "Country": "India"
+    },
+    {
+      "Name": "Keyur",
+      "Age": 24,
+      "Country": "India"
+    },
+    {
+      "Name": "Pankaj",
+      "Age": 29,
+      "Country": "India"
+    },
+    {
+      "Name": "Aalok",
+      "Age": 19,
+      "Country": "India"
+    }
+  ]
+}
